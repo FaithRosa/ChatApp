@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-grey-100 {
+    background-color: #aa8686; 
+  }
+
+.bg-amber-300 {
+    background-color: #ccb8b8c7;
+}
+  
+.text-3x1 {
+    font-size: 30px;
+}
